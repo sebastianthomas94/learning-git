@@ -3,3 +3,5 @@ this is a test for git
 another update
 
 can we meet
+
+creating a conflict in master
